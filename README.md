@@ -174,7 +174,7 @@ http code 400
 ### CLI Program
 
 ### To run cli
-* Run: `npm run boat:cli`
+* Run: `npm run boat-cli`
 
 ### Commands for cli
 * To get all customers `customer`
